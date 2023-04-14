@@ -48,5 +48,5 @@ I have decided to use the K-Nearest Neighbors model to classify the mobile price
 
 ![__results___31_0](https://user-images.githubusercontent.com/77894515/232127522-26607197-825c-45e2-8033-42cebc016203.png)
 
-## Please see on full paper : [Click Here]
+## Please see on full paper : [Click Here](https://github.com/golfung/Data_Science/blob/main/Mobile_Price_Classification/classification-mobile-price.ipynb)
 
