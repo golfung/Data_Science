@@ -32,4 +32,4 @@ This is the source that I refer to https://www.kaggle.com/datasets/ealaxi/paysim
 ![Slide17](https://user-images.githubusercontent.com/77894515/232130662-f0e3d82e-de9d-4715-a6fd-d9ca20e24575.PNG)
 ![Slide18](https://user-images.githubusercontent.com/77894515/232130668-37dfd7c8-b585-4303-ad8f-a7add3f3bc9e.PNG)
 
-## Please see full paper : [Click Here]
+## Please see full paper : [Click Here](https://github.com/golfung/Data_Science/blob/main/Banker_Please_save_us_from_fraudsters/banker-please-save-us-from-fraudsters.ipynb)
