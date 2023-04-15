@@ -11,6 +11,20 @@ Unfortunately, financial transaction data is quite scarce in my country, Thailan
 
 This is the source that I refer to https://www.kaggle.com/datasets/ealaxi/paysim1
 
+## Conclusion
+- The types of transactions is fraudulent are 'TRANSFER' and 'CASH_OUT'.
+- Person who has been deceived will it not be deceived again. 
+- The median amount scammed per time is 441423.44. 
+- Most scammers there was no money in the account before the scam started
+- The prediction model accuracy is accurate to 100%. This is unreasonable result in reality
+
+## Recommendation
+- The data has a low effect of fraud, just 0.3% in the test data set. As a result, the model's prediction results are inconsistent with reality.  
+- We can consider transactions over 400,000 currency unit to be suspected to be fraudulent.  
+- There is no information on the timing of actual transactions. Therefore, it is not possible to analyze the transaction patterns of scammers whether How many minutes are there between transactions?
+- We can consider suspecting that the destination account has no balance. It may be an account of fraudsters.
+
+
 Please see full coding : [Click Here](https://github.com/golfung/Data_Science/blob/main/Banker_Please_save_us_from_fraudsters/banker-please-save-us-from-fraudsters.ipynb)
 
 ## Here is my presentation
