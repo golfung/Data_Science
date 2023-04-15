@@ -11,6 +11,8 @@ Unfortunately, financial transaction data is quite scarce in my country, Thailan
 
 This is the source that I refer to https://www.kaggle.com/datasets/ealaxi/paysim1
 
+Please see full coding : [Click Here](https://github.com/golfung/Data_Science/blob/main/Banker_Please_save_us_from_fraudsters/banker-please-save-us-from-fraudsters.ipynb)
+
 ## Here is my presentation
 
 ![Slide1](https://user-images.githubusercontent.com/77894515/232130672-547d4dcf-a2a3-4e1a-9f72-4e66ca4574d3.PNG)
