@@ -7,6 +7,7 @@ This is a Data Science project of my interest.
 ![How_to_backtest_a_trading_strategy](https://github.com/golfung/Data_Science/assets/77894515/e5e5bf28-60d4-4827-91c0-fe2737ede835)
 ## [Stock data analysis (Part 2)](https://github.com/golfung/Investment/tree/main/Stock_data_analysis_part_2):fire::fire:Recommend
 - In the second part, I will experiment with different types of stock datasets to evaluate the practicality of the trading ideas from the first part.
+- I use Linear regression model to predict the target.
 - Backtesting result show that Highest profit on mai stock list (+95%) in 1 year and 7 months
 - Tool : Python, Power Point
 - Skill : Backtesting, Machine learning, System trading, Presentation
